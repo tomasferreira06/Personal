@@ -1,2 +1,0 @@
-# LAB: ProFTP Recon: Basics
-

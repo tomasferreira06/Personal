@@ -1,2 +1,0 @@
-# LAB: Priviliege Escalation: Impersonate
-
