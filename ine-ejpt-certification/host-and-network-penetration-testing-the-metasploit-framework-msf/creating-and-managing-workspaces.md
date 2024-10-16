@@ -1,0 +1,50 @@
+# Creating & Managing Workspaces
+
+## MSF Workspaces
+
+* Workspaces allow you to keep track of all your hosts, scans and activiteis and are extremely useful when conducting penetration tests as they allow you to sort and organize your data based on the target or organization.
+
+## Practice Demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
